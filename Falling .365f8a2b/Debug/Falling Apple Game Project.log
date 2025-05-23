@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Falling Apple Game Project\CC212SGL.h(25,19): warning C4091: '__declspec(dllimport)': ignored on left of 'COLORS' when no variable is declared
+  (compiling source file 'Source.cpp')
+  
+  Falling Apple Game Project.vcxproj -> D:\Falling Apple Game Project\Debug\Falling Apple Game Project.exe
